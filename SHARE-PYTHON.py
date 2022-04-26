@@ -36,7 +36,7 @@ elif a == 2:    print("ponga eo link del video")
 
 import requests
 import os
-os.system("clear")                                                                                                                                                              >
+os.system("clear")                                                                                                                                                              
 if a == 1:
 
     a = input("SHARE: ")
