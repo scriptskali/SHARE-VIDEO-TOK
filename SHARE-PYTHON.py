@@ -32,7 +32,7 @@ a = int(input(RED+"1.- SHARE BRUTO\n2.-SHARE LENTO \nseleccione una opcion: "))
 
 if a == 1:
     print('ponga el link del video')
-elif a == 2:    print("ponga eo link del video")
+elif a == 2:    print("ponga el link del video")
 
 import requests
 import os
